@@ -10,6 +10,7 @@ namespace QuanLyBanHang
     {
         static void Main(string[] args)
         {//ff
+            //codd3 change
         }
     }
 }
